@@ -9,6 +9,7 @@
     padding: 25px;
     border: 15px solid hotpink;
     overflow: scroll;
+    float: left;
 }
 
 #box-2 {
@@ -20,4 +21,5 @@
     padding: 25px;
     border: 15px solid hotpink;
     overflow: scroll;
+    float: left;
 }
