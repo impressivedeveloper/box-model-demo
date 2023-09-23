@@ -6,5 +6,18 @@
     height: 300px;
     text-align: center;
     margin: 50px;
+    padding: 25px;
     border: 15px solid hotpink;
+    overflow: scroll;
+}
+
+#box-2 {
+    background-color: lightcoral;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+    border: 15px solid hotpink;
+    overflow: scroll;
 }
